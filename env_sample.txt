@@ -1,0 +1,18 @@
+OPENAI_API_KEY=your_openai_api_key here
+OPENAI_API_TYPE=azure
+OPENAI_API_VERSION=2024-12-01-preview
+AZURE_OPENAI_ENDPOINT=https://swj-openai-001.openai.azure.com/
+
+AZURE_OPENAI_EMBEDDING=dev-text-embedding-3-small
+
+AZURE_AI_SEARCH_SERVICE_NAME=swj-search-001
+AZURE_AI_SEARCH_INDEX_NAME=rag-msai-learn03
+AZURE_AI_SEARCH_API_KEY=your_search_api_key here
+AZURE_AI_SEARCH_ENDPOINT=https://swj-search-001.search.windows.net
+TAVILY_API_KEY=your_tavily_api_key here
+
+AZURE_OPENAI_DEPLOYMENT_NAME=dev-gpt-4.1
+AZURE_OPENAI_KEY=your_openai_api_key here
+OPENAI_EMBEDDING_DEPLOYMENT_NAME=dev-text-embedding-3-small
+
+AZURE_AI_CURRICULUM_INDEX_NAME=rag-curriculum
